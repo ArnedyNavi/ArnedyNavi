@@ -1,13 +1,15 @@
-### Hello everyone, I'm Alfon! 👋
+### Hello everyone, I'm Alfonsus! 👋
 
 
 I'm currently a CS student @CUHK-SZ. I am a full-stack programmer. My projects focus on machine learning, artificial intelligence, and web application. I'm working mostly with python. I'm familiar with web development frameworks i.e. Flask, Django, and node.js. I also enjoy working with front-end languages such as HTML, CSS, and Javascript.
 
 
-### 💻 What I'm learning 
+### 💻 Tools/Technologies
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
-### 📫 Connect With Me
+### 🌎 Connect With Me
 
 [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonsusrr)
 
