@@ -21,7 +21,8 @@ I'm currently a CS student @CUHK-SZ. I am a full-stack programmer. My projects f
 [![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonsusrr)
 
 ### Github Status
-https://github-readme-stats.vercel.app/api?username={username}
+![Stats](https://github-readme-stats.vercel.app/api?username=ArnedyNavi)
+
 <!--
 **ArnedyNavi/ArnedyNavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
