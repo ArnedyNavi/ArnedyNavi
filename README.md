@@ -1,7 +1,7 @@
 ## Hello everyone, I'm Alfonsus! 👋
 
 ### 🔭 About me
-📚 I'm currently a CS student @CUHK-SZ. 💻 I am a full-stack programmer. My projects focus on machine learning, artificial intelligence, and web application. I'm working mostly with python. I'm familiar with web development frameworks both backend and frontend i.e. Flask, Django, Node.js, React, and Vue.js.
+📚 I'm currently a CSE student @CUHK-SZ. 💻 I am a full-stack programmer based in Jakarta. My projects focus on machine learning, artificial intelligence, and web application. I'm working mostly with python. I'm familiar with web development frameworks both backend and frontend i.e. Flask, Django, Node.js, React, and Vue.js.
 
 
 ### 💻 Tools/Technologies
